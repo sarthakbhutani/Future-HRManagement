@@ -1,0 +1,25 @@
+.login-board{
+	    background: #f7fafc;
+    margin-top: 140px;
+    margin-left: 500px;
+}
+
+
+.card-body{
+	background: #f7fafc;
+}
+
+.body{
+	height: 150vh;
+    /*background-image: url('./assets/images/doctor_bg.jpg'); /\*/
+    background-size: cover;
+}
+
+.outside_box{
+	margin-left: 270px;
+}
+
+.head_info{
+	text-align: right;
+	margin-right: 0.3rem;
+}
